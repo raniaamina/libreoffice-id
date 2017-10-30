@@ -1,2 +1,5 @@
 # libreoffice-id
-Kontribusi untuk Mini Konferensi LibreOffice Indonesia
+Kontribusi untuk Konferensi Mini LibreOffice Indonesia
+
+# Laman Resmi
+https://libreoffice.id 
