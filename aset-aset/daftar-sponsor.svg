@@ -16,7 +16,10 @@
    version="1.1"
    id="svg15010"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="daftar-sponsor.svg">
+   sodipodi:docname="daftar-sponsor.svg"
+   inkscape:export-filename="/home/sherlock/git/libreoffice-id/aset-aset/daftar-sponsor.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <defs
      id="defs15004">
     <clipPath
@@ -55,13 +58,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="1669.9059"
-     inkscape:cy="101.3877"
+     inkscape:cx="1696.6697"
+     inkscape:cy="603.33248"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="717"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1" />
@@ -73,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1533,7 +1536,7 @@
          id="g13803">
         <g
            id="g6257"
-           transform="matrix(0.35639168,0,0,0.35639168,139.1653,76.546144)">
+           transform="matrix(0.30648944,0,0,0.30648944,123.72759,93.385489)">
           <rect
              y="287.44669"
              x="-159.35902"
@@ -1803,7 +1806,7 @@
         </g>
         <g
            id="g6283"
-           transform="matrix(0.35639168,0,0,0.35639168,139.1653,76.546144)">
+           transform="matrix(0.30648944,0,0,0.30648944,123.72759,93.385489)">
           <rect
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.38399994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.60000002;stroke-dasharray:4.1519998, 4.1519998;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
              id="rect6259"
@@ -1867,7 +1870,7 @@
         <g
            inkscape:label="Layer 1"
            id="g6617"
-           transform="matrix(0.33674804,0,0,0.33674804,2.182931,96.795179)">
+           transform="matrix(0.28959632,0,0,0.28959632,28.912308,110.79924)">
           <rect
              style="fill:#ffffff;fill-opacity:0.99680511;stroke:none;stroke-width:0.07016739;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="rect6419"
@@ -2322,7 +2325,7 @@
         <g
            inkscape:label="Layer 1"
            id="g6737"
-           transform="matrix(0.33674804,0,0,0.33674804,28.912308,96.795179)">
+           transform="matrix(0.33674804,0,0,0.33674804,2.1829313,96.795179)">
           <rect
              style="fill:#ffffff;fill-opacity:0.99680511;stroke:none;stroke-width:0.07016739;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="rect6619"
@@ -2619,7 +2622,7 @@
         </g>
         <g
            id="g13467"
-           transform="translate(1.7009147,-1.5119047)">
+           transform="matrix(0.94636875,0,0,0.94636875,1.7267658,9.1243101)">
           <g
              transform="matrix(1.4142857,0,0,1.4142857,339.61029,-111.08319)"
              id="g9856">
@@ -2670,7 +2673,7 @@
                id="rect6285"
                style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.10720026;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.60000002;stroke-dasharray:3.3216006, 3.3216006;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
             <g
-               transform="matrix(0.51666051,0,0,0.51666051,96.553348,220.10515)"
+               transform="matrix(0.54571936,0,0,0.54571936,121.91429,212.38057)"
                id="g6363">
               <g
                  transform="matrix(0.26458333,0,0,0.26458333,-1071.3676,-214.78972)"
@@ -3117,7 +3120,7 @@
           </g>
         </g>
         <g
-           transform="matrix(0.33674331,0,0,0.33674331,109.10045,96.796329)"
+           transform="matrix(0.28959225,0,0,0.28959225,97.872445,110.80023)"
            id="layer1-60"
            inkscape:label="Layer 1">
           <rect
